@@ -78,8 +78,8 @@ Overall, the website looks very straightforward and simple to use. There isn't t
 
 
 
-## Website 2: [TerraCycle] (https://www.terracycle.com/en-US/)
-<p align="center"> ![image](https://user-images.githubusercontent.com/79380837/193940111-4803e353-7661-4095-adf8-07b00f4d06d3.png) <p>
+## Website 2: [TerraCycle](https://www.terracycle.com/en-US/)
+![Home page of TerraCycle](https://user-images.githubusercontent.com/79380837/193940111-4803e353-7661-4095-adf8-07b00f4d06d3.png)
   
 TerraCycle is a service that aims to adress overconsumption through offering the ability for users to recycle complex trash, that is normally not recycled. This includes skincare bottles, Taco Bell's hot sauce packets, old children's toys, etc. TerraCycle offers free and paid services, and also partners with cities and businesses to make recycling easier. 
 
@@ -90,12 +90,14 @@ As I first browsed through this website, I can tell it is a very professional an
 ### Heuristic Evaluation
 
 #### 1. Visbility of System Status
-*
-  
+* Search feedback does not match to the search input at times (Severity Rating: 3). <br> <p align="center"> ![image](https://user-images.githubusercontent.com/79380837/193942538-62979a88-1dc5-4fa7-8833-76a8f181129c.png) <p>
+> Recommendation: Update the search feedback to match with the searches, or display a message indicating there are no results that matcht he user's search.
+
+* No feedback when hovering over "Zero Waste Box", "Reuse with Loop", and "Partner with Us" (Severity Rating: 2). <p align="center"> ![image](https://user-images.githubusercontent.com/79380837/193943751-be48d3bd-a717-4247-be9a-a3cdf2d2b940.png) <p>
 
 #### 2. Match Between System and the Real World
 *
-  
+  <p align="center"> (image) <p>
 
 #### 3. User control and freedom
 *
@@ -103,11 +105,11 @@ As I first browsed through this website, I can tell it is a very professional an
 
 #### 4. Consistency and standards
 *
-  
+  <p align="center"> (image) <p>
 
 #### 5. Error prevention
 *
-  
+  <p align="center"> (image) <p>
 
 #### 6. Recognition rather than recall
 *
