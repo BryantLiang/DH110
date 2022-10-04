@@ -25,7 +25,7 @@ I aim to create an app that allows you to type an object and the app will tell y
 ## Website 1: [RecycleByCity](https://www.recyclebycity.com)
 <p align="center"> ![Image of RecycleByCity website](https://user-images.githubusercontent.com/79380837/193913174-b9588323-7d83-4cc6-a4c9-2f6b441a3671.png) <p>
 
-Recycle By City is a website that serves as a guide for sorting waste into different bins and allows users to filter by specific cities in the US.  
+Recycle By City aims to reduce the amount of recyclables that end up in landfills, as those materials could be used to benefit our communities. To do this, Recycle By City consists of a recycling guide that can be filtered by city, that assists users in identifying which waste goes into which bins.  
 
 ### Initial Overall Evaluation
 
@@ -78,5 +78,51 @@ Overall, the website looks very straightforward and simple to use. There isn't t
 
 
 
-## Website 2:
+## Website 2: [TerraCycle] (https://www.terracycle.com/en-US/)
+<p align="center"> ![image](https://user-images.githubusercontent.com/79380837/193940111-4803e353-7661-4095-adf8-07b00f4d06d3.png) <p>
+  
+TerraCycle is a service that aims to adress overconsumption through offering the ability for users to recycle complex trash, that is normally not recycled. This includes skincare bottles, Taco Bell's hot sauce packets, old children's toys, etc. TerraCycle offers free and paid services, and also partners with cities and businesses to make recycling easier. 
+
+### Initial Overall Evaluation
+
+As I first browsed through this website, I can tell it is a very professional and well-designed website. The theme of forest green is apparent and effective and the usage of images and graphics are engaging aspects of the site. There is many possible interactions on the site, whether that be clicking on images/buttons or clicking through the different sections they have. However, despite this, the site is organized and does not feel cluttered or crowded at all. The site does seem to target a more educated audience, so the target audience seems to be ages 18-65. 
+  
+### Heuristic Evaluation
+
+#### 1. Visbility of System Status
+*
+  
+
+#### 2. Match Between System and the Real World
+*
+  
+
+#### 3. User control and freedom
+*
+  
+
+#### 4. Consistency and standards
+*
+  
+
+#### 5. Error prevention
+*
+  
+
+#### 6. Recognition rather than recall
+*
+  
+
+#### 7. Flexibility and efficiency of use
+*
+  
+
+#### 8. Aesthetic and minimalist design
+*
+
+#### 9. Help users recognize, diagnose, and recover from errors
+*
+
+#### 10. Help and documentation
+* 
 
