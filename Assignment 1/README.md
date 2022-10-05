@@ -116,15 +116,16 @@ As I first browsed through this website, I can tell it is a very professional an
   
 
 #### 7. Flexibility and efficiency of use
-*
+* No issue with this heuristic! The filtering system was designed well where an experienced user could narrow down their search quickly, but the search function on its own was sufficient enough for novice users. This is similar in the case of 
   
 
 #### 8. Aesthetic and minimalist design
-*
+* No issue with this heuristic! THe website is well designed in a way where sections are easy to access and buttons are intuitive to press. There is not an abundance of information on the home page, as there only is when you decide to click into a specific topic. The graphics complement the headers nicely, and the colors used in the sections fit nicely with the main theme of forest green. 
 
 #### 9. Help users recognize, diagnose, and recover from errors
-*
+* When signing up, I was able to click "Next" after filling out section 1, despite leaving many answers blank. It wasn't until I submitted the entire form that it notifed me I had missing entries. 
+> Recommendation: The site should notify users of missing entries when they click "Next" after completing each section, so that users will know immediately when they are missing some information. 
 
 #### 10. Help and documentation
-* 
+* No issue with this heuristic! There is an entire "Customer Care" section that contains frequently asked questions and has a option to contact the site. The FAQ is organized into sections for easier searching of a problem a user might have. It also contains a search bar if searching for keywords may be faster than looking through sections. 
 
