@@ -96,23 +96,23 @@ As I first browsed through this website, I can tell it is a very professional an
 * No feedback when hovering over "Zero Waste Box", "Reuse with Loop", and "Partner with Us" (Severity Rating: 2). <p align="center"> ![image](https://user-images.githubusercontent.com/79380837/193943751-be48d3bd-a717-4247-be9a-a3cdf2d2b940.png) <p>
 
 #### 2. Match Between System and the Real World
-*
-  <p align="center"> (image) <p>
-
-#### 3. User control and freedom
-*
+* There are left and right arrows to navigate left and right in the item carousel, but there is no end, so you are able to infinitely go left or infinitely go right, which may cause slight confusion for users (Severity Rating: 2). <br> <p align="center"> ![image](https://user-images.githubusercontent.com/79380837/193950470-8dfebf7e-b8ad-40c6-9906-f23a7078e33b.png) <p>
+> Recommendation: Create a limit of how far you can go left or right in the carousel based on the number of pictures displayed. 
   
-
+#### 3. User control and freedom
+* No issue with this heuristic! There are several effective ways users can escape from erroneous decisions such as having breadcrumbs at the top of the page to indicate the previous page a user was on and having an "x" to delete the current search if an incorrect search was typed. 
+  
 #### 4. Consistency and standards
-*
-  <p align="center"> (image) <p>
+* Help site has a different design style than the main site which can lead to a sub-optimal user experience due to the inconsistency. (Severity Rating: 2). <br> <p align="center"> ![image](https://user-images.githubusercontent.com/79380837/193951213-1f4bf401-c556-4796-9c93-80a4203bfa80.png) <p>
+> Recommendation: Align the design style of the help site with the style of the main site.  
 
 #### 5. Error prevention
-*
-  <p align="center"> (image) <p>
+* Reuse with Loop header redirects to a whole new website, but it is not clear based on its similarity with the other headers and its placement in the middle of the group. A user may not be expecting to be navigated away from TerraCycle when clicking on this (Severity Rating: 2). 
+<p align="center"> ![image](https://user-images.githubusercontent.com/79380837/193952501-5edfc2f1-90f4-4b38-8874-7bb1ce9a3488.png) <p>
+> Recommendation: I would recommend to move the header to the far right and provide some indicator that it is not the same as the other headers. Perhaps changing the color, placing a small symbol next to it, or warning the user that it will redirect them to another site. 
 
 #### 6. Recognition rather than recall
-*
+* No issue with this heuristic! There is frequent access to "Learn More" buttons which allows the user to see information only if they are interested. There is small descriptions to allow a user to refresh themselves on the topic of a section before clicking into it. 
   
 
 #### 7. Flexibility and efficiency of use
