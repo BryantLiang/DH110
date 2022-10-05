@@ -1,10 +1,9 @@
-# [Tentative Title: Responsible Consumption]
+# [Tentative Title: Encouraging Responsible Consumption and Production]
 ## Bryant Liang - DH110-F22 - Assignment 1: Heuristic Evaluation
 
-I aim to create an app that allows you to type an object and the app will tell you which trash can to place it into
-- Helps with appropriate recycling (responsible consumption)
-- Helps with producing less items such as bags, water bottles, fertilizer
-- Helps machines that sort through the bins work more effectively
+I aim to address the issue of responsible consumption and production by creating a site that allows users to input an piece of trash through text or a photo, and the site would identify which bin to place it into. 
+
+This would help people with recycling appropriate materials, which addresses responsible consumption, and would also allow for more materials to be recycled and turned into reusable items such as bags, water bottles, raw materials, etc. As less effort is needed to filter through incorrectly thrown trash, more energy and time is thus saved and can be allocated to further recycling and sustainable efforts. 
 
 ## Jakob Nielsen's 10 Usability Heuristics
 | Heuristic  | Description |
@@ -23,7 +22,7 @@ I aim to create an app that allows you to type an object and the app will tell y
 
 
 ## Website 1: [RecycleByCity](https://www.recyclebycity.com)
-<p align="center"> ![Image of RecycleByCity website](https://user-images.githubusercontent.com/79380837/193913174-b9588323-7d83-4cc6-a4c9-2f6b441a3671.png) <p>
+![Image of RecycleByCity website](https://user-images.githubusercontent.com/79380837/193913174-b9588323-7d83-4cc6-a4c9-2f6b441a3671.png)
 
 Recycle By City aims to reduce the amount of recyclables that end up in landfills, as those materials could be used to benefit our communities. To do this, Recycle By City consists of a recycling guide that can be filtered by city, that assists users in identifying which waste goes into which bins.  
 
@@ -91,9 +90,10 @@ As I first browsed through this website, I can tell it is a very professional an
 
 #### 1. Visbility of System Status
 * Search feedback does not match to the search input at times (Severity Rating: 3). <br> <p align="center"> ![image](https://user-images.githubusercontent.com/79380837/193942538-62979a88-1dc5-4fa7-8833-76a8f181129c.png) <p>
-> Recommendation: Update the search feedback to match with the searches, or display a message indicating there are no results that matcht he user's search.
+> Recommendation: Update the search feedback to match with the searches, or display a message indicating there are no results that match the user's search.
 
 * No feedback when hovering over "Zero Waste Box", "Reuse with Loop", and "Partner with Us" (Severity Rating: 2). <p align="center"> ![image](https://user-images.githubusercontent.com/79380837/193943751-be48d3bd-a717-4247-be9a-a3cdf2d2b940.png) <p>
+> Recommendation: Create a similar feedback effect when hovering over these headers compared to the other headers: "Recycle", "About TerraCycle".
 
 #### 2. Match Between System and the Real World
 * There are left and right arrows to navigate left and right in the item carousel, but there is no end, so you are able to infinitely go left or infinitely go right, which may cause slight confusion for users (Severity Rating: 2). <br> <p align="center"> ![image](https://user-images.githubusercontent.com/79380837/193950470-8dfebf7e-b8ad-40c6-9906-f23a7078e33b.png) <p>
@@ -104,11 +104,11 @@ As I first browsed through this website, I can tell it is a very professional an
   
 #### 4. Consistency and standards
 * Help site has a different design style than the main site which can lead to a sub-optimal user experience due to the inconsistency. (Severity Rating: 2). <br> <p align="center"> ![image](https://user-images.githubusercontent.com/79380837/193951213-1f4bf401-c556-4796-9c93-80a4203bfa80.png) <p>
-> Recommendation: Align the design style of the help site with the style of the main site.  
+> Recommendation: Align the design style of the help site with the style of the TerraCycle site.  
 
 #### 5. Error prevention
-* Reuse with Loop header redirects to a whole new website, but it is not clear based on its similarity with the other headers and its placement in the middle of the group. A user may not be expecting to be navigated away from TerraCycle when clicking on this (Severity Rating: 2). 
-<p align="center"> ![image](https://user-images.githubusercontent.com/79380837/193952501-5edfc2f1-90f4-4b38-8874-7bb1ce9a3488.png) <p>
+* Reuse with Loop header redirects to a whole new website, but it is not clear based on its similarity with the other headers and its placement in the middle of the group. A user may not be expecting to be navigated away from TerraCycle when clicking on this (Severity Rating: 2). <br>
+![image](https://user-images.githubusercontent.com/79380837/193952501-5edfc2f1-90f4-4b38-8874-7bb1ce9a3488.png)
 > Recommendation: I would recommend to move the header to the far right and provide some indicator that it is not the same as the other headers. Perhaps changing the color, placing a small symbol next to it, or warning the user that it will redirect them to another site. 
 
 #### 6. Recognition rather than recall
