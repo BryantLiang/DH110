@@ -1,5 +1,5 @@
 # DH 110 Assignment02: Pilot Usability Testing
-## Bryant Liang
+### Bryant Liang
 
 ## Usability Test: [RecycleByCity](https://www.recyclebycity.com)
 RecycleByCity is a website that aims to reduce the amount of recyclables that end up in landfills, as those materials could be used to benefit our communities. To do this, Recycle By City consists of a recycling guide that can be filtered by city, that assists users in identifying which waste goes into which bins.
