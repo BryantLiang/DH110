@@ -36,7 +36,7 @@ Methods: Interview and Participatory Observation
 * The session was conducted over Zoom in order to capture my participant's facial expressions and screen during the screen share, but we were in the same room during the research session. 
 * The session was conducted with my roommate has my participant, meaning the location of the session was my participant's home and the typical setting where he would be engaging in these activites. 
 
-Breakdown
+**Breakdown**
 * Introduction: Brief summary of purpose of session and the terms agreed for the session 
 * Background Questions: Confirmation of target market and introduction questions about proper waste disposal.
 * Interview: More in-depth questions about proper waste disposal, including questions about participant's experience and knowledge relating to proper waste disposal. 
@@ -47,4 +47,15 @@ Breakdown
 [Link to Guide](https://docs.google.com/document/d/1oTW3IwJu3qDTeK_21wCvdur22WgsUByOKNjUz9yYlwE/edit)
 
 ## Step 5: Conduct the Research
-[Link to Contextual Inquiry Notes](https://docs.google.com/document/d/1oTW3IwJu3qDTeK_21wCvdur22WgsUByOKNjUz9yYlwE/edit)
+[Link to Contextual Inquiry Notes](https://docs.google.com/document/d/12N_juGIzGqooH7y3qMVnTYyJerLy48HFrqV5c_Za3iY/edit)
+[Link to Contextual Inquiry Video](https://drive.google.com/file/d/1K3qUt8TsLxSr9R9h62C5thcoYfr6zdyZ/view?usp=sharing)
+
+## Step 6: Reflection
+Overall, the contextual inquiry flowed smoothly because I learned from my mistakes from the usability testing, such as making sure there were no typos and that I ran it through once on my own. Being comfortable with the script also allowed me to deviate from the script a bit and probe further into specific details. 
+
+Next time, I would do an audio test before I begin recording, because my session had some audio problems when we first started, and that resulted in me having to pause the recording and tell my participant to be in the same room as me. 
+
+Something unexpected that happened during the session was the fact that my participant did not click into any of the websites during the activity portion where I was observing. I expected him to do so, so I anticipated the activities would take longer, but he simply searched on Google and based his answer off the auto suggested result. Although unexpected, this was a valuable insight because it shows that my target audience values being time efficient when trying to accomplish the goal of sorting trash correctly, which is something I will keep in mind when creating my product. This was vastly different than the usability test where we started with the participant on the page and instructed them on the specific steps. Also, my participant did not check whether it applied to his specific location or area, and instead just assumed the answer was relevant to his area.  This researcher-participant mismatch was also evident in the usability test, as I assumed the participant would notice certain things, when they did not. 
+
+Another insight I learned was that my product may not be used as often as I initially thought because my participant brought up the point where he would use it less and less because he would begin remembering where to properly dispose of trash. However, this does still provide support for the main activity in terms of informing users how to properly sort their trash. 
+
