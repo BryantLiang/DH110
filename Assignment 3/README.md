@@ -48,7 +48,8 @@ Methods: Interview and Participatory Observation
 
 ## Step 5: Conduct the Research
 [Link to Contextual Inquiry Notes](https://docs.google.com/document/d/12N_juGIzGqooH7y3qMVnTYyJerLy48HFrqV5c_Za3iY/edit)
-[Link to Contextual Inquiry Video](https://drive.google.com/file/d/1K3qUt8TsLxSr9R9h62C5thcoYfr6zdyZ/view?usp=sharing)
+<br><br>[Link to Contextual Inquiry Video](https://drive.google.com/file/d/1K3qUt8TsLxSr9R9h62C5thcoYfr6zdyZ/view?usp=sharing)
+<br><br>[Link to Transcription](https://otter.ai/u/fE5BlvN7ykZLFOBE1UT-fzH2Uf4)
 
 ## Step 6: Reflection
 Overall, the contextual inquiry flowed smoothly because I learned from my mistakes from the usability testing, such as making sure there were no typos and that I ran it through once on my own. Being comfortable with the script also allowed me to deviate from the script a bit and probe further into specific details. 
