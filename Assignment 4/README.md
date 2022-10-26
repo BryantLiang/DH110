@@ -6,14 +6,14 @@
 
 ## Personas and Empathy Maps
 ### Persona 1: Raymond Lee 
-![Image of Raymond Lee persona](https://user-images.githubusercontent.com/79380837/197952675-4827f048-a1ef-49f7-9e7f-f168d73c0516.png)
+![Image of Raymond's persona](https://user-images.githubusercontent.com/79380837/197956637-035b28c5-e75b-40ca-b31b-f3f711f8f9fa.png)
 ## Raymond's Empathy Map
-(image of empathy map)
+![Image of Raymond's Empathy Map](https://user-images.githubusercontent.com/79380837/197956521-6f9fd7bd-53b0-4899-ba68-57a15e927178.png)
 
 ### Persona 2: Meredith Cooper
-(image of persona)
+![Image of Meredith's persona](https://user-images.githubusercontent.com/79380837/197956921-03caa13e-8719-4289-b695-cdfe8457c0da.png)
 ## Meredith's Empathy Map
-(image of map)
+![Image of Meredith's Empathy Map](https://user-images.githubusercontent.com/79380837/197954749-f37fa928-c42d-46c0-9756-0cd78f135ea0.png)
 
 ## Scenarios and Journey Maps
 
@@ -26,7 +26,7 @@ He then goes on his phone and searches for “pasta jar” on the app. The locat
 
 With this new information, Raymond cleans the jar and the lid, and leaves it to dry overnight. In the morning he throws the jar and the lid separately into the recycling bin and feels a bit empowered, knowing how to properly recycle thai pasta jar. He decides to share a screenshot of the information he found on the app with his friends, in order to spread the knowledge about recycling. 
 
-(image)
+![Image of Raymond's Journey Map](https://user-images.githubusercontent.com/79380837/197957100-ce124057-dd10-4165-a731-dfc91cf73374.png)
 
 ### Meredith's Scenario and Journey Map
 Meredith is enjoying some time off from work on the weekend and is spending time with her two kids at the park. The kids play on the playground for a bit but return soon to eat some snacks that Meredith has packed. She gives them both a pouch of GoGo Squeez applesauce and they finish it quickly. One of her children asks, “Mommy, where should I throw this away?” Meredith is happy that her child is being conscious about disposing of trash responsibly, but she thinks about it and is unsure about the correct bin as well. She is a bit confused because the pouch contains multiple parts, such as the lid, the pouch, and the food inside. She takes the pouch from them and tells them to play, and she decides to find out more information about how to properly dispose of these applesauce pouches. She tries to look at the packaging first to see if there's an indicator of how to properly dispose of it but she is unable to find one.
@@ -35,4 +35,4 @@ She goes onto the app and uses the camera feature to scan the GoGo Squeez apples
 
 Meredith gets home and her husband asks about her day at the park and questions her about why she is carrying the applesauce packets. Meredith smiles and explains what she learned from the app to her husband, referring to the previous searches on the app as reference to show him. 
 
-(image)
+![Image of Meredith's Journey Map](https://user-images.githubusercontent.com/79380837/197956273-8eff4bb0-3d3e-4cc3-93a0-f67683f96087.png)
