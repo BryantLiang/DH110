@@ -6,19 +6,21 @@
 
 ## Personas and Empathy Maps
 ### Persona 1: Raymond Lee 
-![Image of Raymond's persona](https://user-images.githubusercontent.com/79380837/197956637-035b28c5-e75b-40ca-b31b-f3f711f8f9fa.png)
+![Image of Raymond's persona](https://user-images.githubusercontent.com/79380837/199350908-0e622ab8-50e6-462f-9b41-eb2fa5b0366e.png)
 ## Raymond's Empathy Map
-![Image of Raymond's Empathy Map](https://user-images.githubusercontent.com/79380837/199350908-0e622ab8-50e6-462f-9b41-eb2fa5b0366e.png)
+![Image of Raymond's Empathy Map](https://user-images.githubusercontent.com/79380837/199351260-2ec7e94a-579d-42f3-9d8a-7cfd48afceaf.png)
+
 
 ### Persona 2: Meredith Cooper
-![Image of Meredith's persona](https://user-images.githubusercontent.com/79380837/197956921-03caa13e-8719-4289-b695-cdfe8457c0da.png)
+![Image of Meredith's persona](https://user-images.githubusercontent.com/79380837/199351138-3b5998ac-4789-4b54-b9e1-ddc2f0597339.png)
 ## Meredith's Empathy Map
-![Image of Meredith's Empathy Map](https://user-images.githubusercontent.com/79380837/199351023-56082a22-37b9-4c12-9774-78d8dae04305.png)
+![Image of Meredith's Empathy Map](https://user-images.githubusercontent.com/79380837/199351377-7ca34e84-218e-40fa-b52f-38a0aef416f3.png)
+
 
 ## Scenarios and Journey Maps
 
 ### Raymond's Scenario and Journey Map
-Raymond lives in off campus housing at UCLA so he is responsible for his own meals. Raymond enjoys both eating out and making food at home. Today he has decided to make spaghetti and meatballs. He invites some of his friends over to enjoy the meal with him and they have a good time eating and talking. 
+Raymond lives in a Apartment in Sawtelle and enjoys both eating out and making food at home. Today he has decided to make spaghetti and meatballs. He invites some of his friends over to enjoy the meal with him and they have a good time eating and talking. 
 
 After the meal, Raymond decides to clean up and washes the dishes and puts away the leftovers. He gets to the empty jar of pasta sauce and heads to throw it into the recycling. However, he hesitates because there are still elements of sauce in the jar and sauce belongs in the compost bin. He asks his friends if they know which bin he should throw it into and they are unsure and tell him to just throw it in the recycling. He doesn’t feel confident about this so he decides to confirm before throwing it away. 
 
