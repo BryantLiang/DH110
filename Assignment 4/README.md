@@ -8,12 +8,12 @@
 ### Persona 1: Raymond Lee 
 ![Image of Raymond's persona](https://user-images.githubusercontent.com/79380837/197956637-035b28c5-e75b-40ca-b31b-f3f711f8f9fa.png)
 ## Raymond's Empathy Map
-![Image of Raymond's Empathy Map](https://user-images.githubusercontent.com/79380837/197956521-6f9fd7bd-53b0-4899-ba68-57a15e927178.png)
+![Image of Raymond's Empathy Map](https://user-images.githubusercontent.com/79380837/199350908-0e622ab8-50e6-462f-9b41-eb2fa5b0366e.png)
 
 ### Persona 2: Meredith Cooper
 ![Image of Meredith's persona](https://user-images.githubusercontent.com/79380837/197956921-03caa13e-8719-4289-b695-cdfe8457c0da.png)
 ## Meredith's Empathy Map
-![Image of Meredith's Empathy Map](https://user-images.githubusercontent.com/79380837/197954749-f37fa928-c42d-46c0-9756-0cd78f135ea0.png)
+![Image of Meredith's Empathy Map](https://user-images.githubusercontent.com/79380837/199351023-56082a22-37b9-4c12-9774-78d8dae04305.png)
 
 ## Scenarios and Journey Maps
 
