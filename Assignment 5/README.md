@@ -20,6 +20,12 @@ The purpose of creating low-fidelity prototypes is to test users using rudimenta
 ## Wireframes and Wireflows
 [Link to Lo-fi Prototype](https://www.figma.com/file/B6p7BA8FRBcl5KjBiCoYZL/Lofi-Prototype?node-id=0%3A1)
 
+#### Onboarding Wireflow
+![RecycleMe Intro](https://user-images.githubusercontent.com/79380837/199427288-b0b333e9-4149-4ceb-bc8c-9193abc9b8d1.png)
+
+#### Task Wireflows
+![RecycleMe Tasks](https://user-images.githubusercontent.com/79380837/199427400-73c21ef2-c5c2-425e-ab4a-ae5393c49d6e.png)
+
 ## Lo-fi Wireflow Testing
 * Confusions with loading screen, scanning screen, 
 * Tester successfully ompleted both tasks
