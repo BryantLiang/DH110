@@ -15,7 +15,7 @@ The process of creating this interface design was to first research information 
 
 ## Digitized Wireflow and Interface Design Page
 
-[Digitized Wireflow](https://www.figma.com/file/B6p7BA8FRBcl5KjBiCoYZL/Lofi-Prototype)
+[Digitized Wireflow](https://www.figma.com/file/B6p7BA8FRBcl5KjBiCoYZL/Lofi-Prototype) <br>
 [Interface Design page](https://www.figma.com/file/b4tsjB8PaExoRTbiJYrs09/User-Interface?node-id=0%3A1)
 
 ## Graphical User Interface Design Variation
@@ -36,31 +36,71 @@ The process of creating this interface design was to first research information 
 
 ![Color Variations](https://user-images.githubusercontent.com/79380837/200744819-294c5dc2-c1e6-441a-b6bd-897e7ee495de.png)
 
-### Decision Making Process and Final Graphical Interface Design
+## Accessibility Check 
+My final design passes the color contrast accessibility test, with a ratio higher than 4.5:1. 
 
-![Final Design](https://user-images.githubusercontent.com/79380837/200745954-e63dcfc7-1e09-49e5-83ae-0c08cf8318f7.png)
+### Text vs. Background
+![Text vs. Background](https://user-images.githubusercontent.com/79380837/200747889-72310f6c-3c82-45fb-aabe-5092189ca861.png)
 
-#### Final Design
-I decided to go with all of these design decisions because I felt it matched the aesthetic and theme of my site well. I also included a search feature and a map in order to minimize the amount of screens a user has to click through and create less white space in this screen. I believe this also makes for a more intuitive location sharing process as they are automatically presented with one and are able to choose another if they wish. I also lengthened out the “continue” button to further emphasize it, as well as reduce the white space. 
+### Buttons vs. Background
+![Button 1 vs. Background](https://user-images.githubusercontent.com/79380837/200748014-b033fa0a-cfb5-491e-8443-72977cb3bfa4.png)
+![Button 2 vs. Background](https://user-images.githubusercontent.com/79380837/200748133-37bafcff-355f-4ced-b6a7-f59bd0d44b0d.png)
 
-#### Typeface
-I chose the Lato font over fonts such as Roboto and Inter because it consisted of more rounded edges which, in my opinion, creates a more comfortable and inviting atmosphere to the site. I envision users using the app and showcasing its features to a younger audience so having a welcoming font like Lato would appeal to them. I decided to create a Title font of 28, as well as a subtitle font of 22 because I wanted to create a distinct hierarchy between the sections, in addition to the spacial separation. Therefore, I included both subtitle body text and regular body text in order to create a distinction between the two. I created the button text smaller because the button naturally draws attention to itself and I wouldn’t want the button space to be too crowded, or have the button be too big. I bolded the title and semibold the subtitle for textual hierarchy purposes and I bolded the buttons to draw attention to them. 
-
-#### Color
-For the colors of my design, I based it off the logo image of the recycling bin. However, I had to adjust it slightly in order to create an accessible color palette. I decided to emphasize the important buttons (the “continue” button in this screen) with a color that stands out more in order to convey to the user the order of importance of the buttons. Even though the app is for more than recycling, I think having a blue theme based on recycling puts the user in a conscious mindset where they would be willing to landfill, compost, and recycle. The background was chosen so that it was not purely white or purely black so that it is easier on the user’s eyes. The text was chosen in order to stand out among the buttons and be familiar to users. 
-
-#### Layout
-I chose a layout of a 2x3 Grid because I wanted to keep it relatively simple as I want the app to showcase as little as possible and get straight to the point. The two columns encourage having one piece of content per line and helps keep the content centralized in between the columns. The rows allow for separation of the few items on the screen and provide a guide to use Gestalt principles to create natural separation. Similarly, the margins allow the content to be emphasized and makes it feel less empty despite having few contents. 
-
+### Button text vs. Button
+![Button 1 text vs Button 1](https://user-images.githubusercontent.com/79380837/200748281-a5015bb5-23da-4c50-8efe-a0bd45a81cf0.png)
+![Button 2 Text vs Button 2](https://user-images.githubusercontent.com/79380837/200748308-942bbe44-916a-4405-b554-e36fe639f074.png)
 
 ## Impression Test
 
-[mpression Test Video](https://drive.google.com/file/d/1PYrLFJhp9Kr_WEjx3_6Nj_GAdRb-Yjwh/view?usp=sharing)
+[Impression Test Video](https://drive.google.com/file/d/1PYrLFJhp9Kr_WEjx3_6Nj_GAdRb-Yjwh/view?usp=sharing)
 
 ### Insights
 * "Typical home page screen"
 Through my impression test, my participant stated that it seemed very typical, as in nothing stood out. She stated that this wasn’t necessarily a bad thing as it means that the design looks normal and expected, which is good. She expected the map to be there when seeing content about location which confirmed my thoughts on the map making the process a bit more intuitive. However, having a home page not stand out could be a problem as well as it may deter first time users from using the app. Therefore, I could brainstorm ways to have the page catch the user’s attention. Also she mentioned that the alignment was a bit off for the subtitle text, which was memorable to her because everything else was middle centered except for that text. I made the revision for this and I agree that it is more natural with this change. 
+* Although not captured in the recording, my participant made a note that she liked the color scheme, so it’s reassuring that the color scheme is both memorable and appealing. 
 
-Although not captured in the recording, my participant made a note that she liked the color scheme, so it’s reassuring that the color scheme is both memorable and appealing. 
+## Decision Making Process and Final Graphical Interface Design
 
+![Final Design](https://user-images.githubusercontent.com/79380837/200748384-88a89a0f-0760-4392-a171-37cfa69105b1.png)
 
+### Final Design
+I decided to go with all of these design decisions because I felt it matched the aesthetic and theme of my site well. I also included a search feature and a map in order to minimize the amount of screens a user has to click through and create less white space in this screen. I believe this also makes for a more intuitive location sharing process as they are automatically presented with one and are able to choose another if they wish. I also lengthened out the “continue” button to further emphasize it, as well as reduce the white space. 
+
+### Design System
+![Design System](https://user-images.githubusercontent.com/79380837/200748627-858438cd-750f-4eb4-ba9e-65921e5a4ca8.png)
+
+##### Typeface
+* Font Family: Lato
+* Title: Bold, Size 28
+* Subtitle: Semibold, 22
+* Subtitle Body: Regular, 18
+* Body: Regular, 16
+* Button: Bold, 14
+
+##### Color Scheme
+* Primary Color: 1032DA
+* Secondary Color: 245EFF
+* Primary Color (Dark Mode): 80D7FF
+* Secondary Color (Dark Mode): 88C3F6
+* Background: F2F2F2
+* Background (Dark Mode): 4B4B4B
+* Black Text: 000000
+* White Text: FFFFFF
+
+##### Layout
+* 2 rows by 3 columns
+* Columns
+  * Margins 32
+  * Gutter: 20
+* Rows
+  * Margins: 64
+  * Gutter: 20
+
+### Typeface
+I chose the Lato font over fonts such as Roboto and Inter because it consisted of more rounded edges which, in my opinion, creates a more comfortable and inviting atmosphere to the site. I envision users using the app and showcasing its features to a younger audience so having a welcoming font like Lato would appeal to them. I decided to create a Title font of 28, as well as a subtitle font of 22 because I wanted to create a distinct hierarchy between the sections, in addition to the spacial separation. Therefore, I included both subtitle body text and regular body text in order to create a distinction between the two. I created the button text smaller because the button naturally draws attention to itself and I wouldn’t want the button space to be too crowded, or have the button be too big. I bolded the title and semibold the subtitle for textual hierarchy purposes and I bolded the buttons to draw attention to them. 
+
+### Color
+For the colors of my design, I based it off the logo image of the recycling bin. However, I had to adjust it slightly in order to create an accessible color palette. I decided to emphasize the important buttons (the “continue” button in this screen) with a color that stands out more in order to convey to the user the order of importance of the buttons. Even though the app is for more than recycling, I think having a blue theme based on recycling puts the user in a conscious mindset where they would be willing to landfill, compost, and recycle. The background was chosen so that it was not purely white or purely black so that it is easier on the user’s eyes. The text was chosen in order to stand out among the buttons and be familiar to users. 
+
+### Layout
+I chose a layout of a 2x3 Grid because I wanted to keep it relatively simple as I want the app to showcase as little as possible and get straight to the point. The two columns encourage having one piece of content per line and helps keep the content centralized in between the columns. The rows allow for separation of the few items on the screen and provide a guide to use Gestalt principles to create natural separation. Similarly, the margins allow the content to be emphasized and makes it feel less empty despite having few contents. 
