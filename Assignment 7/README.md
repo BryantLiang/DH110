@@ -1,4 +1,4 @@
-# DH 110 Assignment 6: Interface Design
+# DH 110 Assignment 7: High Fidelity Prototype
 ## Bryant Liang
 
 ## Overview
