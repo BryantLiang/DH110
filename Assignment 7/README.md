@@ -24,6 +24,14 @@ The process of this prototype consisted of using Figma and its features, such as
 [RecycleMe High Fidelity Prototype](https://www.figma.com/file/b4tsjB8PaExoRTbiJYrs09/User-Interface?node-id=186%3A1477&t=fosFwZatOz4MFj0K-0)
 
 ## Cognitive Walkthrough
-To be updated after class on 11/16.
+[In-class Cognitive Walkthrough](https://docs.google.com/document/d/1EuNEyCYfPHzk3AqJHnMhec62d-jKAKy8M57W_bWiORE/edit)
 
- 
+The cognitive walkthrough we conducted in class was helpful in receiving feedback on my initial high-fidelity prototype. It provided a set of unbiased eyes and allowed me to see how a potential user thought about the app. 
+
+For the first impressions of the app, my peers thought that the app was centered around recycling and that the map's function was to locate recycling centers/areas around them. I think this is an important piece of feedback because it indicates that a user's first thought of the purpose of the app is not related to the app's function at all. This may lead to a confusing initial experience. My idea to address this is to rename the app to a more broad name such as "DisposeMe", remove the map feature, and include a bit more text about what location sharing is for. 
+
+During the scan search task, my peers both stated to me that they both did not know to click on the image of the aluminum can to access the page where it informed them of the correct bin. The rationale behind this decision for me initially was that I trying to keep the interface simple and was mimicking how a shopping app would display their items, but I understand through the feedback that my app’s images does not afford the same clicking effect as a clothing app because the context of a user going into a clothing app encourages the user to click on images of clothes, while the effect is not the same for my app. To fix this, I can add an underline effect when hovering over the words and/or a hover effect when browsing over the aluminum can. This familiar feedback will inform users that this would be clickable. 
+
+A general comment I received was that some of the prototyping was incomplete, where the back arrows or taskbar was not working on every screen. I tested it myself before finalizing the prototype and it seemed to work fine, but I’m glad I was able to have others test the prototype to catch these errors. I will re-check the prototyped flows and ensure the buttons and icons are working properly.
+
+
