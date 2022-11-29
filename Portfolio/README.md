@@ -2,8 +2,11 @@
 
 ### Bryant Liang | DH 110 Fall 2022
 
+## Introduction
+This project took place over Fall Quarter 2022 in DH 110 and consisted of designing a solution that addressed one of the UN's 17 sustainability goals. I wanted to address the issue of irresponsible consumption and production and ideated that assisting people in sorting their waste correctly could lead to more recycling and lead to a more sustainable use of resources, thus working towards responsible consumption and production. My process throughout the quarter included conducting UX research, engaging in UX storytelling, wireframing and prototyping, all which ultimately led to a design of an app called DisposeMe. DisposeMe is designed to be a platform that makes it easier for users to properly determine how to sort their waste. 
+
 ## Design Statement
-According to Waste Management, an American trash collecting company, the average recycling contamination rate — or disposal of trash or recyclables in the wrong recycling bin — is 25%, meaning 1 in 4 items thrown in a recycling bin isn't recyclable. This is alarming as we are consuming so many products everyday, and we are missing out on the chance of recycling a quarter of our products. Therefore, in my project, I wanted to address this problem of irresponsible consumption and reduce the average recycling contamination rate. I did this by creating an app, DisposeMe, that made proper waste disposal easier for users.
+According to Waste Management, an American trash collecting company, the average recycling contamination rate — or disposal of trash or recyclables in the wrong recycling bin — is 25%, meaning 1 in 4 items thrown in a recycling bin isn't recyclable. This is alarming as we are consuming so many products everyday, and we are missing out on the chance of recycling a quarter of our products. Therefore, in my project, I wanted to address this issue of irresponsible consumption by reducing the average recycling contamination rate. DisposeMe acheives this goal and aims to do so in a simple and efficient manner for users.
 
 ## Research
 
