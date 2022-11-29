@@ -7,23 +7,21 @@ According to Waste Management, an American trash collecting company, the average
 
 ## Research
 
-### Competitor Analysis: Heuristic Evaluation
+### Competitor Analysis: [Heuristic Evaluation](https://github.com/brygoesmoo/DH110/tree/main/Assignment%201)
 
 I conducted a heurstic evaluation on two websites: RecycleByCity and Terracycle. Recycle By City aims to reduce the amount of recyclables that end up in landfills, while Terracycle aims to adress overconsumption through offering the ability for users to recycle complex trash, that is normally not recycled. I chose to analyze these websites because they were websites that had similar goals to mine where they would help make the recycling process easier and more clear to people who were interested. 
-<br>[Link to Heuristic Evaluation](https://github.com/brygoesmoo/DH110/tree/main/Assignment%201)
 
-### Competitor Analysis: Pilot Usability Test
+### Competitor Analysis: [Pilot Usability Test](https://github.com/brygoesmoo/DH110/tree/main/assignment02)
 
 I conducted a pilot usability test for the website RecycleByCity because it was going to be similar to the app I had in mind so I wanted to determine if the usability issues that I found in the heuristic evaluation were issues that a user would encounter as well. I was able to utilize the results of the pilot usability test to design the features of my own app to ensure a better user experience. 
-<br>[Link to Usability Test](https://github.com/brygoesmoo/DH110/tree/main/assignment02)
 
-### User Research: Contextual Inquiry
+### User Research: [Contextual Inquiry](https://github.com/brygoesmoo/DH110/tree/main/Assignment%203)
 
 To gather information about my user and how they behave, I conducted a contextual inquiry that consisted of an interview and participatory observation. This contextual inquiry was beneficial as I learned to empathize more with the user as the way a user thinks and behaves is different than how I act or behave or how I perceive a user to act or behave. I observed the user for two tasks: searching for the proper bin for an item and the steps they would take if they were unable to find a definitive answer. I deteremined from this research that one of the main priorities for a user is efficiency when trying to acheive the goal of proper waste disposal. 
-<br>[Contextual Inquiry](https://github.com/brygoesmoo/DH110/tree/main/Assignment%203)
 
-### UX Storytelling
-* [Personas + Scenarios](https://github.com/brygoesmoo/DH110/tree/main/Assignment%204)
+### UX Storytelling: [Personas + Scenarios](https://github.com/brygoesmoo/DH110/tree/main/Assignment%204)
+
+UX storytelling was important in my project because it allows me to empathize with the target user’s goals and attitudes. For this, I created 2 personas and 2 scenarios which provided me with insight on how users would go about using my app and in what contexts. This allowed me to brainstorm features that will cater to their needs. It was important to place myself into a user’s shoes because the features I value may not align exactly with a user’s values. 
 
 ### Design
 * Lo-fi prototype
