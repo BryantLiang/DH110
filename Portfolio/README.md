@@ -26,13 +26,14 @@ To gather information about my user and how they behave, I conducted a contextua
 
 UX storytelling was important in my project because it allows me to empathize with the target user’s goals and attitudes. For this, I created 2 personas and 2 scenarios which provided me with insight on how users would go about using my app and in what contexts. This allowed me to brainstorm features that will cater to their needs. It was important to place myself into a user’s shoes because the features I value may not align exactly with a user’s values. 
 
-### Design
+## Design
 * Lo-fi prototype
 * Interface design
 * Hi-fi prototype
 
-### Evaluation
-* In progress
+## Evaluation
+* Cognitive Walkthrough
+* Maybe UT
 
-### Presentation
+### Pitch Video
 * Video Link
