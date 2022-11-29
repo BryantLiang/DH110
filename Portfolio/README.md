@@ -44,9 +44,17 @@ After conducting several rounds of research, I began creating a rough draft of t
 
 Using the low-fidelity prototype and the design system I created, I was able to create a high-fidelity prototype using Figma. I utilized Figma's prototyping tools, its overlaying and animations features, and  components. The overall design decisions were based on user research I had conducted in the first phases of this project, as well as industry design standards, such as how search bar interfaces typically look.
 
-## Evaluation
-* Cognitive Walkthrough
-* Maybe UT
+## [Evaluation and Revision](https://github.com/brygoesmoo/DH110/tree/main/Assignment%207) 
 
-### Pitch Video
+After creating the high-fidelity prototype, I conducted a cognitive walkthrough with 2 participants and also conducted a usability test with another participant. The cognitive walkthroughs were held in-person during class time and the usability test was conducted over Zoom. With this feedback from these sessions, I was able to revise my prototype to improve the usability of the app. 
+
+## Reflection
+
+Through the process of creating the DisposeMe prototype, I learned a lot about the design process and was able to gain experience in the skills needed at each stage, whether that be soft skills such as conducting an interview or hard skills such as using Figma. Actually doing each step of the process helped me understand how much work is really put in at each level when designing a product. I also enjoyed tackling the real life issue of sustainability because it felt that the work I was doing was meaningful and relevant.
+
+Conducting UX research and empathizing with the users was fun because it allowed me to be creative and brainstorm many different solutions to solve a user's problem. However, I struggled a bit with the design process because I found it a bit difficult to turn my ideas into designs, especially since I did not have a lot of experience using design platforms and design techniques. I also learned about creating a design system and how meticulous it had to be to ensure the product was consistent and accessible. 
+
+Overall, working on this project was a great experience and beneficial in improving my skills as a UX research and designer. I know that the skills I learned and the experiences I've gained in this class will help me succeed in future design projects as well. 
+
+## Pitch Video
 * Video Link
