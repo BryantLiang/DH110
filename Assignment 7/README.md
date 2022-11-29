@@ -34,4 +34,9 @@ During the scan search task, my peers both stated to me that they both did not k
 
 A general comment I received was that some of the prototyping was incomplete, where the back arrows or taskbar was not working on every screen. I tested it myself before finalizing the prototype and it seemed to work fine, but I’m glad I was able to have others test the prototype to catch these errors. I will re-check the prototyped flows and ensure the buttons and icons are working properly.
 
+## Usability Testing
 
+[Link to Usability Testing Script](https://docs.google.com/forms/d/1SRZohoc9YZgCJnIQjMNhyshOaI61K1E0ygyzRSsZ2Ew/edit)
+<br>[Link to Usability Testing Video](https://drive.google.com/file/d/1F15HpJJ8OzgsLh1refBfuojFlEkYN5rD/view?usp=sharing)
+
+I conducted a usability test that consisted of testing for 3 tasks: onboarding, scan an item to determine its correct bin, and search an item to determine its correct bin. The main findings I discovered were that the the loading screens caused confusion, it was unclear what the home page was, and it was confusing for the user to understand the scan feature. While I do think Figma has its limitations in terms of integrating some of the features I had in mind, I do think lack of instruction lead to a lot of these confusions. Therefore, I extended the onboarding process briefly as I included a quick guide on how the app operates. This helps the user understand what the scan and search features are and naturally brings them into the home screen. I also fixed some prototyping issues that caused confusion in the user. 
