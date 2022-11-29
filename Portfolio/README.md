@@ -6,7 +6,7 @@
 This project took place over Fall Quarter 2022 in DH 110 and consisted of designing a solution that addressed one of the UN's 17 sustainability goals. I wanted to address the issue of irresponsible consumption and production and ideated that assisting people in sorting their waste correctly could lead to more recycling and lead to a more sustainable use of resources, thus working towards responsible consumption and production. My process throughout the quarter included conducting UX research, engaging in UX storytelling, wireframing and prototyping, all which ultimately led to a design of an app called DisposeMe. DisposeMe is designed to be a platform that makes it easier for users to properly determine how to sort their waste. 
 
 ## Design Statement
-According to Waste Management, an American trash collecting company, the average recycling contamination rate — or disposal of trash or recyclables in the wrong recycling bin — is 25%, meaning 1 in 4 items thrown in a recycling bin isn't recyclable. This is alarming as we are consuming so many products everyday, and we are missing out on the chance of recycling a quarter of our products. Therefore, in my project, I wanted to address this issue of irresponsible consumption by reducing the average recycling contamination rate. DisposeMe acheives this goal and aims to do so in a simple and efficient manner for users.
+According to Waste Management, an American trash collecting company, the average recycling contamination rate — or disposal of trash or recyclables in the wrong recycling bin — is 25%, meaning 1 in 4 items thrown in a recycling bin are not recyclable. This is alarming as we are consuming so many products everyday, and we are missing out on the chance of recycling a quarter of our products. Therefore, in my project, I wanted to address this issue of irresponsible consumption by reducing the average recycling contamination rate by informing people what the proper bin waste goes into. DisposeMe acheives this goal and aims to do so in a simple and efficient manner.
 
 ## Research
 
@@ -44,7 +44,9 @@ After conducting several rounds of research, I began creating a rough draft of t
 
 Using the low-fidelity prototype and the design system I created, I was able to create a high-fidelity prototype using Figma. I utilized Figma's prototyping tools, its overlaying and animations features, and  components. The overall design decisions were based on user research I had conducted in the first phases of this project, as well as industry design standards, such as how search bar interfaces typically look.
 
-## [Evaluation and Revision](https://github.com/brygoesmoo/DH110/tree/main/Assignment%207) 
+## Evaluation and Revision
+
+### [Cognitive Walkthrough and Usability Testing](https://github.com/brygoesmoo/DH110/tree/main/Assignment%207) 
 
 After creating the high-fidelity prototype, I conducted a cognitive walkthrough with 2 participants and also conducted a usability test with another participant. The cognitive walkthroughs were held in-person during class time and the usability test was conducted over Zoom. With this feedback from these sessions, I was able to revise my prototype to improve the usability of the app. 
 
