@@ -38,7 +38,11 @@ UX storytelling was important in my project because it allowed me to empathize w
 
 After conducting several rounds of research, I began creating a rough draft of the prototype of my application using Figma. My main emphasis for the low-fidelity prototype was to keep the app simple and easy to use as that was one of the core findings from my research. I created drafts of the onboarding flow, the scan an item wireflow, and search for an item wireflow. 
 
-![Low-fidelity Prototype](https://user-images.githubusercontent.com/79380837/204640863-c876e9fb-2fbd-406a-93b6-e37274b6547b.png)
+![Low-fidelity Prototype](https://user-images.githubusercontent.com/79380837/204640863-c876e9fb-2fbd-406a-93b6-e37274b6547b.png) 
+
+### [Design System](https://github.com/brygoesmoo/DH110/tree/main/Assignment%206)
+
+In addition, I finalized the stylistic decisions (typography, spacing, font, colors) of the graphical interface and created a design system that I would use while designing the high fidelity prototype.
 
 ### [High-fidelity Prototype](https://github.com/brygoesmoo/DH110/tree/main/Assignment%207)
 
