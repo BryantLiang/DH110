@@ -24,11 +24,11 @@ I conducted a pilot usability test for the website RecycleByCity because it was 
 
 ### User Research: [Contextual Inquiry](https://github.com/brygoesmoo/DH110/tree/main/Assignment%203)
 
-To gather information about my user and how they behave, I conducted a contextual inquiry that consisted of an interview and participatory observation. This contextual inquiry was beneficial as I learned to empathize more with the user as the way a user thinks and behaves is different than how I act or behave or how I perceive a user to act or behave. I observed the user for two tasks: searching for the proper bin for an item and the steps they would take if they were unable to find a definitive answer. I deteremined from this research that one of the main priorities for a user is efficiency when trying to acheive the goal of proper waste disposal. 
+To gather information about my user and how they behave, I conducted a contextual inquiry that consisted of an interview and participatory observation. This contextual inquiry was beneficial as I learned to empathize more with the user as the way a user thinks and behaves is different than how I act or behave or how I perceive a user to act or behave. I observed the user for 2 tasks: searching for the proper bin for an item and the steps they would take if they were unable to find a definitive answer. I deteremined from this research that one of the main priorities for a user is efficiency when trying to acheive the goal of proper waste disposal. 
 
 ### UX Storytelling: [Personas + Scenarios](https://github.com/brygoesmoo/DH110/tree/main/Assignment%204)
 
-UX storytelling was important in my project because it allows me to empathize with the target user’s goals and attitudes. For this, I created 2 personas and 2 scenarios which provided me with insight on how users would go about using my app and in what contexts. This allowed me to brainstorm features that will cater to their needs. It was important to place myself into a user’s shoes because the features I value may not align exactly with a user’s values. 
+UX storytelling was important in my project because it allowed me to empathize with the target user’s goals and attitudes. For this, I created 2 personas and 2 scenarios which provided me with insight on how users would go about using my app and in what contexts. This allowed me to brainstorm features that will cater to their needs. It was important to place myself into a user’s shoes because the features I value may not align exactly with a user’s values. 
 
 ![Image of Raymond's persona](https://user-images.githubusercontent.com/79380837/199350908-0e622ab8-50e6-462f-9b41-eb2fa5b0366e.png)
 
@@ -48,7 +48,7 @@ Using the low-fidelity prototype and the design system I created, I was able to 
 
 ### [Cognitive Walkthrough and Usability Testing](https://github.com/brygoesmoo/DH110/tree/main/Assignment%207) 
 
-After creating the high-fidelity prototype, I conducted a cognitive walkthrough with 2 participants and also conducted a usability test with another participant. The cognitive walkthroughs were held in-person during class time and the usability test was conducted over Zoom. With this feedback from these sessions, I was able to revise my prototype and add new features such as more specific instructions or new pop-ups that improve the usability of my app. 
+After creating the high-fidelity prototype, I conducted a cognitive walkthrough with 2 classmates and also conducted a usability test with another participant. The cognitive walkthroughs were held in-person during class time and the usability test was conducted over Zoom. With this feedback from these sessions, I was able to revise my prototype and add new features such as more specific instructions and new pop-ups that improved the usability of my app. 
 
 ## Reflection
 
