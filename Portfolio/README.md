@@ -48,7 +48,7 @@ Using the low-fidelity prototype and the design system I created, I was able to 
 
 ### [Cognitive Walkthrough and Usability Testing](https://github.com/brygoesmoo/DH110/tree/main/Assignment%207) 
 
-After creating the high-fidelity prototype, I conducted a cognitive walkthrough with 2 participants and also conducted a usability test with another participant. The cognitive walkthroughs were held in-person during class time and the usability test was conducted over Zoom. With this feedback from these sessions, I was able to revise my prototype to improve the usability of the app. 
+After creating the high-fidelity prototype, I conducted a cognitive walkthrough with 2 participants and also conducted a usability test with another participant. The cognitive walkthroughs were held in-person during class time and the usability test was conducted over Zoom. With this feedback from these sessions, I was able to revise my prototype and add new features such as more specific instructions or new pop-ups that improve the usability of my app. 
 
 ## Reflection
 
