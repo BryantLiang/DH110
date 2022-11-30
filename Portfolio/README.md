@@ -59,4 +59,4 @@ Conducting UX research and empathizing with the users was fun because it allowed
 Overall, working on this project was a great experience and beneficial in improving my skills as a UX research and designer. I know that the skills I learned and the experiences I've gained in this class will help me succeed in future design projects as well. 
 
 ## Pitch Video
-Pitch Video Link
+[Pitch Video Link](https://drive.google.com/file/d/1sUZQON0oWMSnkP6cnf3tCs6uhc-F9REX/view?usp=sharing)
