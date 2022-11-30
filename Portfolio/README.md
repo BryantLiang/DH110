@@ -44,6 +44,10 @@ After conducting several rounds of research, I began creating a rough draft of t
 
 In addition, I finalized the stylistic decisions (typography, spacing, font, colors) of the graphical interface and created a design system that I would use while designing the high fidelity prototype.
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/79380837/204721094-82ea87b5-3998-475c-aec1-d6752d63f081.png" alt="Design System">
+</p>
+
 ### [High-fidelity Prototype](https://github.com/brygoesmoo/DH110/tree/main/Assignment%207)
 
 Using the low-fidelity prototype and the design system I created, I was able to create a high-fidelity prototype using Figma. I utilized Figma's prototyping tools, its overlaying and animations features, and  components. The overall design decisions were based on user research I had conducted in the first phases of this project, as well as industry design standards, such as how search bar interfaces typically look.
